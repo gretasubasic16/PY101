@@ -244,7 +244,7 @@ izbornika \"Run-\>Run Module\" ili pritiskom na tipku \"F5\". Jedini
 zahtjev je da prvo sačuvamo datoteku na disk pri čemu je dobro paziti da
 joj dodijelimo ekstenziju .py. IDLE kao softver je, naime, dosta
 asketske prirode pa neke verzije ne paze na to umjesto nas. Rezultat ove
-radnje je vidljiv na slici [4](#fig:idle_text_run){reference-type="ref"
+radnje je vidljiv na slici [4](/images/idle_text_run.png){reference-type="ref"
 reference="fig:idle_text_run"}.
 
 ![IDLE i rezultat izvršavanja
