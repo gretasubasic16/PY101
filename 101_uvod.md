@@ -156,10 +156,10 @@ referentne implementacije Pythona s [python.org](http://www.python.org).
 Python instaliran na ovaj način dolazi sa svim standardnim dijelovima
 jezika i jednostavno ga je instalirati putem uobičajenog grafičkog
 sučelja za instalaciju *desktop* aplikacija. Na slici
-[1](#fig:wininstall){reference-type="ref" reference="fig:wininstall"}
+[1](/images/windows_install.png))
 vidimo kako izgleda pokretanje instalacije novijih verzija Pythona.
 
-![Instalacija Pythona na Windows OS-u](/images/windows_install.png)
+![Instalacija Pythona na Windows OS-u]
 
 Dok klik na \"Install Now\" obavlja većinu posla, ipak je korisno
 primijetiti neke detalje i uključiti dodatne mogućnosti. Python će se po
