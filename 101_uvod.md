@@ -233,7 +233,7 @@ je vidljivo na slici [3](#fig:idle_text){reference-type="ref"
 reference="fig:idle_text"}. Datoteka sadrži tipičan program za prvi
 susret s programiranjem koji ćemo kasnije podrobnije analizirati.
 
-![IDLE i pisanje tekstualnih datoteka](idle_text){#fig:idle_text
+![IDLE i pisanje tekstualnih datoteka](/images/idle_text.png)#fig:idle_text
 width="\\textwidth"}
 
 Novi prozor koji nam se otvorio je jednostavan program za pisanje
